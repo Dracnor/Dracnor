@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dracnor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning advanced classes on complexity, cryptography, graphs and coinduction. 
-- 💞️ I’m looking to collaborate on ... passing my master finals :P
+- 👀 I’m interested in combinatorics and coinduction.
+- 🌱 I’m currently learning C++ and Rust. 
+- 💞️ I’m looking to collaborate on computer exploration for discrete combinatorics
 - 📫 How to reach me : github messages !
 
 <!---
